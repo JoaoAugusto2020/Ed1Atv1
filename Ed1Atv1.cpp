@@ -5,12 +5,12 @@ using namespace std;
 
 
 struct Livro {
-    //variáveis
+    //variÃ¡veis
     char titulo[100];
     char autor[100];
     int paginas;
 
-    //funções
+    //funÃ§Ãµes
     void ler(){
         printf("Digite o titulo: ");
 		scanf("%[^\n]%*c", titulo);
