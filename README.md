@@ -1,6 +1,6 @@
-#Ed1Atv1
+# Ed1Atv1
+### Alunos: Arthur Xavier e João Augusto Marciano Silva
 Atividade 2 de Estrutura de Dados I - TAD (Tipo Abstrato de Dados) [Em dupla]
-Alunos: Arthur Xavier e João Augusto Marciano Silva
 
 Faça um programa que seja capaz de armazenar informações sobre livros de uma biblioteca.
 Seu programa deve ter um TAD para representar o livro, contendo título, autor e número de páginas. Além disso, seu TAD deve ter duas operações: ler e imprimir.
