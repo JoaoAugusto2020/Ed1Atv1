@@ -1,5 +1,5 @@
-Estrutura de Dados I - Atividade 1
-
+#Ed1Atv1
+Atividade 2 de Estrutura de Dados I - TAD (Tipo Abstrato de Dados) [Em dupla]
 Alunos: Arthur Xavier e João Augusto Marciano Silva
 
 Faça um programa que seja capaz de armazenar informações sobre livros de uma biblioteca.
